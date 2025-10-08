@@ -40,16 +40,17 @@ To demonstrate my ability to leverage Excel as a powerful business intelligence 
 
 ## 🛠️ Tools & Technologies
 
-![Excel]
-![Power Query]
-![Data Visualization]
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power_Query-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-FF6F00?style=for-the-badge&logo=tableau&logoColor=white)
+
 ---
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://osinusiayodeji.github.io/AyodejiOsinusi1.github.io/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](your-portfolio-url)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/ayodeji-okiki-8a508b258)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://osinusiayodeji.github.io/AyodejiOsinusi1.github.io/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ayodejiokiki2@gmail.com)
 
 ---
 
