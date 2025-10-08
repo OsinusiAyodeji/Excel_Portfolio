@@ -22,7 +22,7 @@ This repository contains all my Excel projects, showcasing how I use Excel to tr
 ## 📂 Projects Included
 
 ### ☕ [Coffee Shop Sales Analysis](./Coffee-Shop-Sales-Analysis)
-Analyzed 6 months of transactional data from Maven Roasters (3 NYC locations) to optimize operations. Built an interactive dashboard revealing peak hours (7-11 AM), top products, and revenue trends - enabling data-driven staffing and inventory decisions.
+Analyzed 6 months of transactional data from Maven Roasters (3 NYC(New York City) locations) to optimize operations. Built an interactive dashboard revealing peak hours (7-11 AM), top products, and revenue trends - enabling data-driven staffing and inventory decisions.
 
 **Key Skills:** Pivot Tables, Slicers, TIME functions, Dashboard Design, Sales Analytics
 
@@ -47,7 +47,7 @@ To demonstrate my ability to leverage Excel as a powerful business intelligence 
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://osinusiayodeji.github.io/AyodejiOsinusi1.github.io/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](your-portfolio-url)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email)
 
