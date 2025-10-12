@@ -1,4 +1,4 @@
-# ☕ Coffee Shop Sales Analysis
+8# ☕ Coffee Shop Sales Analysis
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Dashboard](https://img.shields.io/badge/Dashboard-Interactive-blue?style=for-the-badge)
@@ -151,6 +151,4 @@ The dashboard allows filtering by Astoria, Hell's Kitchen, and Lower Manhattan, 
 - Create predictive models for demand forecasting
 - Develop mobile-friendly dashboard version for on-the-go access
 
----
 
-## 📁 Project Structure
